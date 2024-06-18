@@ -1,0 +1,29 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Pasta node_modules
+node_modules/
+
+# Arquivo de ambiente local
+.env
+
+# Dependências instaladas pelo npm
+package-lock.json
+
+# Arquivos gerados durante a construção do projeto
+/dist
+/build
+*.out
+*.pid
+
+# Arquivos de configuração local
+/.vscode
+.idea
+
+# Arquivos temporários
+*.tmp
+*.temp
